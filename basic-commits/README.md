@@ -1,5 +1,5 @@
 # This repository is for basic-commits exercise
-1. Ouput of git log:
+# 1. Ouput of git log:
 commit f8712d5c4df74fa0d49c8cc9ba3b1a5b2c571072 (HEAD -> master, origin/master, origin/HEAD)
 Author: Frank Theile <ftheile@grundfos.com>
 Date:   Mon Dec 9 10:30:13 2019 +0100
@@ -22,7 +22,7 @@ Date:   Wed Nov 27 08:24:29 2019 +0100
 
     Helpful alternative to `cat` for long files.
 
-2. Output of git status:
+# 2. Output of git status:
 On branch master
 Your branch is up to date with 'origin/master'.
 
@@ -39,7 +39,7 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-3. Output of git status:
+# 3. Output of git status:
 On branch master
 Your branch is up to date with 'origin/master'.
 
@@ -57,7 +57,7 @@ Untracked files:
         ../fd
         ../less
 
-4. Output of git status:
+# 4. Output of git status:
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
@@ -74,7 +74,7 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-5. Ouput of git status:
+# 5. Ouput of git status:
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
@@ -92,7 +92,7 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-6. Output of git status:
+# 6. Output of git status:
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
@@ -111,7 +111,7 @@ Untracked files:
         ../fd
         ../less
 
-7. Output of git status:
+# 7. Output of git status:
 On branch master
 Your branch is ahead of 'origin/master' by 2 commits.
   (use "git push" to publish your local commits)
@@ -129,7 +129,7 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-8. Output of git log:
+# 8. Output of git log:
 commit 94eb6d936e75392d7a074be2bc638c2dea8f9880 (HEAD -> master)
 Author: fyl221 <60276685+fyl221@users.noreply.github.com>
 Date:   Fri Jan 24 21:29:10 2020 -0800
